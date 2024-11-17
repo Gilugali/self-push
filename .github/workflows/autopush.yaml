@@ -27,4 +27,4 @@ jobs:
               run: ./log.sh
               env:
                   GIT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  NUM: 30
+                  NUM: 50
